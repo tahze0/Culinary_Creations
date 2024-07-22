@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Culinary_Creations/static/css/main.00c274c8.css",
+    "main.js": "/Culinary_Creations/static/js/main.d72f14a0.js",
+    "static/js/453.ed6be228.chunk.js": "/Culinary_Creations/static/js/453.ed6be228.chunk.js",
+    "index.html": "/Culinary_Creations/index.html",
+    "main.00c274c8.css.map": "/Culinary_Creations/static/css/main.00c274c8.css.map",
+    "main.d72f14a0.js.map": "/Culinary_Creations/static/js/main.d72f14a0.js.map",
+    "453.ed6be228.chunk.js.map": "/Culinary_Creations/static/js/453.ed6be228.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c274c8.css",
+    "static/js/main.d72f14a0.js"
+  ]
+}
